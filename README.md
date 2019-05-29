@@ -1,2 +1,2 @@
 # Summer_2019
-- [[ipynb](src/1.ipynb)] GitHub+Colab Setup
+- [[ipynb](src/Untitled26.ipynb)] LIF
