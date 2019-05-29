@@ -1,2 +1,2 @@
 # Summer_2019
-- [[ipynb](src/.ipynb)] GitHub+Colab Setup
+- [[ipynb](src/1.ipynb)] GitHub+Colab Setup
